@@ -1,0 +1,1 @@
+docker compose -p kafka-admin-example up -d
